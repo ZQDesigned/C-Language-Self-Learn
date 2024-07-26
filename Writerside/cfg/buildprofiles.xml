@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <footer>
+        <copyright>2024 辽宁省熠云网络科技有限公司 版权所有</copyright>
+        <icp>辽ICP备2023007213号-2</icp>
+    </footer>
+
+    <variables></variables>
+    <build-profile instance="C">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
+
+</buildprofiles>

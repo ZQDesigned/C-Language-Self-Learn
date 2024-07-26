@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="C"
+                 name="C 语言自学教程"
+                 start-page="home.md">
+
+    <toc-element topic="home.md" />
+    <toc-element topic="Before-the-lessons-start.md"/>
+    <toc-element topic="L1.md"/>
+    <toc-element topic="L2.md"/>
+    <toc-element topic="L3.md"/>
+    <toc-element topic="L4.md"/>
+    <toc-element id="Advance Lessons" toc-title="进阶课程（随普通课程更新）" >
+        <toc-element topic="AL1.md"/>
+    </toc-element>
+    <toc-element id="Appendix" toc-title="附录" >
+        <toc-element id="1" topic="A1.md"/>
+        <toc-element topic="A2.md"/>
+        <toc-element topic="A3.md"/>
+        <toc-element topic="A4.md"/>
+        <toc-element topic="A5.md"/>
+        <toc-element topic="A6.md"/>
+        <toc-element topic="A7.md"/>
+    </toc-element>
+    <toc-element topic="donate.md"/>
+</instance-profile>
